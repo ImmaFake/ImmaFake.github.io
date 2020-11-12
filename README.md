@@ -4,7 +4,7 @@ This website uses these sources:
 
 | Module                                                       | Mainly used in                                  | License/ TOS                                                 |
 | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
-| [Particle.js](https://github.com/VincentGarreau/particles.js) | Homepage                                        | [MIT](http://opensource.org/licenses/MIT)                    |
+| [Particle.js](https://github.com/VincentGarreau/particles.js) | Homepage11                                       | [MIT](http://opensource.org/licenses/MIT)                    |
 | [Visitor map](https://clustrmaps.com/)                       | Homepage, footer                                | [TOS](https://clustrmaps.com/legal)                          |
 | [Homepage and color scheme](https://github.com/nrandecker/particle) | Layout @ homepage, color scheme @ all pages     | [MIT](http://opensource.org/licenses/MIT)                    |
 | [List of recent post](https://github.com/mdo/jekyll-snippets/blob/master/posts-list.html) | Homepage, Post index                            | [MIT](http://opensource.org/licenses/MIT)                    |
