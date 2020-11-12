@@ -2,24 +2,24 @@
 title: Lifelong Robotic Vision
 description: IROS2019 Competition
 baseurl: "" 
-url: "https://lifelong-robotic-vision.github.io" 
+url: "https://immafake.github.io" 
 
 # GitHub User settings
-username: Qi She
-github_username: lifelong-robotic-vision
+username: Yifeng Fei
+github_username: ImmaFake
 user_description: 
 user_title: 
-email: sheqi1991@gmail.com
+email: fyf0702@163.com
 
 # Blog Author settings
 author:
-  name:           Qi She
+  name:           Yifeng Fei
   picture:        
-  email:          sheqi1991@gmail.com
+  email:          fyf0702@163.com
   description:    
   twitter:
   facebook:
-  github:         https://github.com/lifelong-robotic-vision
+  github:         https://github.com/ImmaFake
   linkedin:
 
 
