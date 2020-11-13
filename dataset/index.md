@@ -15,7 +15,7 @@ For the details of current lifelong object recognition and lifelong SLAM dataset
 
 - [Lifelong Object Recognition Dataset]({{site.url}}{{site.baseurl}}/dataset/object.html)
 - [Lifelong SLAM Dataset]({{site.url}}{{site.baseurl}}/dataset/scene.html)
-- [Lifelong Location Dataset]({{site.url}}{{site.baseurl}}/dataset/scene.html)
+- [Lifelong Location Dataset]({{site.url}}{{site.baseurl}}/dataset/Location.html)
 
 
 
